@@ -1,10 +1,6 @@
-# battlesnake-python
+# Battlesnake 2018
 
-A simple [BattleSnake AI](http://battlesnake.io) written in Python. 
-
-Visit [battlesnake.io/readme](http://battlesnake.io/readme) for API documentation and instructions for running your AI.
-
-This AI client uses the [bottle web framework](http://bottlepy.org/docs/dev/index.html) to serve requests and the [gunicorn web server](http://gunicorn.org/) for running bottle on Heroku. Dependencies are listed in [requirements.txt](requirements.txt).
+This project is our team's entry to the 2018 Battlesnake competition. Battlesnake is a multi-player programming game based on the game of Snake. This project is the Python web server that controls our team's snake. 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
